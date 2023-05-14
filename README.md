@@ -4,7 +4,7 @@ https://github.com/bellx2/x100cmd
 
 export filename : yyyymmddhhmmss.csv
 
-inport filrname : X100new.csv
+import filrname : X100new.csv
 
 thanks
 # DJ-X100
