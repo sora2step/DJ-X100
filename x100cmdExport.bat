@@ -4,7 +4,7 @@ x100cmd check
 chcp 65001
 
 
-x100cmd export %date:/=%%time2:~0,2%%time2:~3,2%%time2:~6,2%.csv -a
+x100cmd export %date:/=%%time2:~0,2%%time2:~3,2%.csv -a
 
 
 @set time2=
